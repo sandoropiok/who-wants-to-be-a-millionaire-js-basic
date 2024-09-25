@@ -62,3 +62,4 @@ while (currentLevel < questions.length) {
 }
 
 console.log(`\nThank you for playing! You walk away with $${prizeMoney}.`);
+
