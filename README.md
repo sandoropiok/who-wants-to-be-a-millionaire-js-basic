@@ -11,10 +11,7 @@ This is a simple text-based mini-game inspired by the popular game show **Who Wa
 
 ## Technologies Used
 
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/NodeJS-Dark.svg" width="48">
-<img src="./icons/Git.svg" width="48">
-<img src="./icons/Github-Dark.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48"> <img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/Git.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48">
 
 ## Installation
 
